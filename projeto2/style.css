@@ -10,7 +10,9 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #333;
+    background: #0F2027;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -24,7 +26,10 @@ h1 {
     height: 300px;
     border: 5px solid #FFF;
     border-radius: 50%;
-    background-color: rgba(0, 0, 0, 0.2);
+    background: #000000b6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343a9, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343be, #000000cb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 .riscos {
@@ -65,7 +70,10 @@ h1 {
 .p_s {
     width: 100px;
     height: 3px;
-    background-color: #F00;
+    background: #e52d27;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #b31217, #e52d27);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #b31217, #e52d27); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 .p_m {
     width: 120px;
