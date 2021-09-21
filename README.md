@@ -1,4 +1,7 @@
-![131062507-ae1ece18-d579-4f9d-b5c9-d91c54aa7089](https://user-images.githubusercontent.com/83568294/131290018-3e500ac0-1f25-4dcc-9686-18a30dea0f34.png)
+
+![Animação](https://user-images.githubusercontent.com/83568294/134256209-cc560e0c-2200-4386-aa14-1679512db977.gif)
+
+
 # Projeto-Relogio
 # Completed
 
