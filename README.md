@@ -10,7 +10,7 @@
  - ✔️ CSS
  - ✔️ Javascript
 
-<br></br>
+<br>
 
   # About this project
   
