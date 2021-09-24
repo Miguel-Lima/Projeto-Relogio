@@ -4,6 +4,23 @@
 
 </div>
 
-# Projeto-Relogio
-# Completed
+ ## 🚀 Technologies
+ 
+ - ✔️ HTML
+ - ✔️ CSS
+ - ✔️ Javascript
+
+<br></br>
+
+  # About this project
+  
+  Idea of this project: 
+   > - This project is a digital and analog clock.
+   > - A whole HTML and CSS structure was made for the pointers.
+   > - Its functionality is based on javascript where it will follow the real-time time of Brazil / BR.
+   
+   <br>
+   
+   # Project Complete 💥
+   
 
